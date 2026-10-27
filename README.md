@@ -4,4 +4,4 @@ This project demonstrates a complete CI/CD pipeline using GitHub Actions, Tekton
 
 ## Project Name
 
-cicd-final-project
+ci-cd-final-project
